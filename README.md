@@ -8,17 +8,17 @@
   <a href="https://www.linkedin.com/in/mizanursajid/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+  <a href="https://www.facebook.com/yourprofile" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+  </a>
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=mizanur-sajid.mizanur-sajid&"  />
-</div>
 
-###
 
 <h1 align="center">Hey there 👋</h1>
 
@@ -28,7 +28,13 @@
 
 ###
 
-<p align="left">👋 Myself, Mizanur Rahamn<br><br>🔭 I’m working on nothing<br>📚 I'm currently learning nothing<br>⚡ In my free time, I do nothing</p>
+<p align="left">👋 Myself, Mizanur Rahamn. I'm a passionate developer always looking to learn and build new things.<br><br>🔭 I’m currently exploring new technologies and working on exciting projects.<br>📚 I'm continuously learning and expanding my skill set in software development.<br>⚡ In my free time, I enjoy coding, contributing to open source, and staying updated with the latest tech trends.</p>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mizanur-sajid.mizanur-sajid&"  />
+</div>
 
 ###
 
